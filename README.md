@@ -140,6 +140,6 @@ A escolha do tema reflete aplicação direta de conhecimento de domínio — par
 
 ## Autor
 
-**Guilherme**
+**Guilherme Antonio da Silva**
 Especialista em Automação Industrial | Transição para Ciência de Dados
 [LinkedIn](#) • [GitHub](#)
