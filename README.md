@@ -1,4 +1,4 @@
-# 🔬 Controle de Qualidade Farmacêutico — Análise e Detecção de Lotes Fora do Padrão
+# Controle de Qualidade Farmacêutico — Análise e Detecção de Lotes Fora do Padrão
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
@@ -142,4 +142,4 @@ A escolha do tema reflete aplicação direta de conhecimento de domínio — par
 
 **Guilherme Antonio da Silva**
 Especialista em Automação Industrial | Transição para Ciência de Dados
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](www.linkedin.com/in/guilherme-antonio-da-silva) • [GitHub](https://github.com/silvaguilhermea)
