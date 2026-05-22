@@ -142,4 +142,4 @@ A escolha do tema reflete aplicação direta de conhecimento de domínio — par
 
 **Guilherme Antonio da Silva**
 Especialista em Automação Industrial | Transição para Ciência de Dados
-[LinkedIn](www.linkedin.com/in/guilherme-antonio-da-silva) • [GitHub](https://github.com/silvaguilhermea)
+[LinkedIn](https://linkedin.com/in/guilherme-antonio-da-silva) • [GitHub](https://github.com/silvaguilhermea)
